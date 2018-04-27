@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdoWebApi", "EdoWebApi\EdoWebApi.csproj", "{6A2D9412-9834-4D6E-8BE2-2EA80096BDBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdoWebApi.Tests", "EdoWebApi.Tests\EdoWebApi.Tests.csproj", "{4558EB4C-365A-4635-9BCA-D3EE3C0725D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A2D9412-9834-4D6E-8BE2-2EA80096BDBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A2D9412-9834-4D6E-8BE2-2EA80096BDBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A2D9412-9834-4D6E-8BE2-2EA80096BDBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A2D9412-9834-4D6E-8BE2-2EA80096BDBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4558EB4C-365A-4635-9BCA-D3EE3C0725D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4558EB4C-365A-4635-9BCA-D3EE3C0725D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4558EB4C-365A-4635-9BCA-D3EE3C0725D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4558EB4C-365A-4635-9BCA-D3EE3C0725D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F12809A0-1CD1-4468-A7D9-B97C6EB22C04}
+	EndGlobalSection
+EndGlobal
